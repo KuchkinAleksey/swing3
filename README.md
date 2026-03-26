@@ -19,7 +19,6 @@ python run_transition.py
 ```
 
 Edit `run_transition.py` to change the transition (e.g. `"ddd->uuu"`, `"uud->duu"`).
-`u` = up (θ=0), `d` = down (θ=π).
 
 ## License
 
